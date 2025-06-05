@@ -13,10 +13,6 @@ This lightweight demo fetches and displays data from the [Rick and Morty API](ht
 
 👉 [jonathansovsky.com/api-demo](https://jonathansovsky.com/api-demo)
 
-## 📸 Screenshot
-
-![Screenshot](assets/img/portfolio/api-demo.png)
-
 ## ⚙️ Tech Stack
 
 - HTML
