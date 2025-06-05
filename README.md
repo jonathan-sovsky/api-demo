@@ -1,2 +1,28 @@
-# api-demo
-A lightweight demo that fetches character data from the Rick and Morty API using JavaScript and the Fetch API. Demonstrates how to consume public APIs, display structured results, and show raw JSON.
+# API Demo – Rick and Morty Character Explorer
+
+This lightweight demo fetches and displays data from the [Rick and Morty API](https://rickandmortyapi.com/). Users can enter a character ID to retrieve real-time information such as name, status, species, origin, and image, along with the raw JSON response.
+
+## 🔍 Features
+
+- Uses the native Fetch API to consume a public REST endpoint
+- Dynamically renders structured data in the DOM
+- Displays raw JSON output for debugging or demonstration purposes
+- Clean, responsive layout with Bootstrap 5
+
+## 🌐 Live Demo
+
+👉 [jonathansovsky.com/api-demo](https://jonathansovsky.com/api-demo)
+
+## 📸 Screenshot
+
+![Screenshot](assets/img/portfolio/api-demo.png)
+
+## ⚙️ Tech Stack
+
+- HTML
+- JavaScript (Fetch API)
+- Bootstrap 5
+- Rick and Morty API (https://rickandmortyapi.com/)
+
+## 📁 Structure
+
