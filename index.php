@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "API Demo";
-$bodyClass = "bg-light"; // optional, for styling consistency
-include '../partials/header.php'; // assuming this is your site-wide shared header
+$bodyClass = "bg-light";
+include '../partials/header.php';
 ?>
 
 <div class="container py-5">
